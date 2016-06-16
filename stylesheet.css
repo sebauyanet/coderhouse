@@ -1,0 +1,27 @@
+header,li
+{
+	font-family: Raleway;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px
+}
+
+footer
+{
+	background-color: #006666;
+	font-family:Open sans;
+
+}
+
+img
+{
+	height:500px;
+	width:1200px
+}
+
+li
+{
+	float:left;
+}
